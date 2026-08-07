@@ -1,1 +1,1 @@
-export const repoRoot = "/react-deploy/";
+export const repoRoot = "/build-only/";
