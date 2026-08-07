@@ -1,6 +1,6 @@
-# React Deploy
+# Build Only
 
-## How to deploy a React website to GitHub
+## How to deploy a build-only React website to GitHub
 
 1. TODO: add numbered instructions
 2. TODO: explaining in your own words
